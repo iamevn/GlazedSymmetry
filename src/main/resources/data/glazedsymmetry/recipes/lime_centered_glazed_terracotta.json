@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    "item": "minecraft:lime_glazed_terracotta"
+    }
+  ],
+  "result": {
+    "item": "glazedsymmetry:lime_centered_glazed_terracotta",
+    "count": 1
+  }
+}
