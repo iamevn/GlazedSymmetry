@@ -1,7 +1,7 @@
 {
   "variants": {
-    "axis=y": { "model": "glazedsymmetry:block/orange_glazed_terracotta_pillar" },
-    "axis=z": { "model": "glazedsymmetry:block/orange_glazed_terracotta_pillar", "x": 90 },
-    "axis=x": { "model": "glazedsymmetry:block/orange_glazed_terracotta_pillar",  "x": 90, "y": 90 }
+    "axis=y": { "model":  "glazedsymmetry:block/orange_glazed_terracotta_pillar", "x":  0, "y":  0 },
+    "axis=z": { "model":  "glazedsymmetry:block/orange_glazed_terracotta_pillar", "x":  90, "y":  0 },
+    "axis=x": { "model":  "glazedsymmetry:block/orange_glazed_terracotta_pillar", "x":  90, "y":  90 }
   }
 }
