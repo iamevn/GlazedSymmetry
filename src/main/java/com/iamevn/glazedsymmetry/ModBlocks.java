@@ -33,7 +33,7 @@ public class ModBlocks {
 
     private static <T extends Block> RegistryObject<T> register(String name, Supplier<T> block) {
         RegistryObject<T> reg_block = Registration.BLOCKS.register(name, block);
-        Registration.ITEMS.register(name, () -> new BlockItem(reg_block.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+        Registration.ITEMS.register(name, () -> new BlockItem(reg_block.get(), new Item.Properties().group(ItemGroup.DECORATIONS)));
         return reg_block;
     }
 }
