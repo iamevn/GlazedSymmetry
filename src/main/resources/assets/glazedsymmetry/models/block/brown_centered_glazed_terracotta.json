@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "glazedsymmetry:block/brown_centered_glazed_terracotta"
+  }
+}

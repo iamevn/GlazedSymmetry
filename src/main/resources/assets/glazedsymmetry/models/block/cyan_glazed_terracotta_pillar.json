@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "glazedsymmetry:block/cyan_glazed_terracotta_pillar_top",
+    "down": "glazedsymmetry:block/cyan_glazed_terracotta_pillar_top",
+    "north": "glazedsymmetry:block/cyan_glazed_terracotta_pillar",
+    "south": "glazedsymmetry:block/cyan_glazed_terracotta_pillar",
+    "east": "glazedsymmetry:block/cyan_glazed_terracotta_pillar",
+    "west": "glazedsymmetry:block/cyan_glazed_terracotta_pillar"
+  }
+}
