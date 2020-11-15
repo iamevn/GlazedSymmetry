@@ -1,6 +1,7 @@
 {
   "parent": "block/cube",
   "textures": {
+    "particle": "glazedsymmetry:block/yellow_glazed_terracotta_pillar_top",
     "up": "glazedsymmetry:block/yellow_glazed_terracotta_pillar_top",
     "down": "glazedsymmetry:block/yellow_glazed_terracotta_pillar_top",
     "north": "glazedsymmetry:block/yellow_glazed_terracotta_pillar",
